@@ -63,6 +63,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Kotlin](https://kotlinlang.org/)
+- [Elixir](https://elixir-lang.org/) - A functional programming language with ruby-like syntax that uses the BEAM.
 
 ## Front-End Development
 
